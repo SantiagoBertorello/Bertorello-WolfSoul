@@ -2,17 +2,18 @@
 ![wolf logo readme]
 <p align="center">
    <img src="https://user-images.githubusercontent.com/111317302/184967631-e13fd995-3c27-40af-922e-0369a3e989da.jpg"/><p/>
+<p align="center">
+# Wolf Soul<p/>
 
-#Wolf Soul
-##Indice
+## Indice
 
-###Descripcion del Proyecto
-###Historia
-###Potenciales Clientes
-###Tipografía y Paleta de colores
-###Creación del Logo
+- [Descripción del Proyecto](Descripción del Proyecto)
+- ###Historia
+- ###Potenciales Clientes
+- ###Tipografía y Paleta de colores
+- ###Creación del Logo
 
-Descripcion del Proyecto
+### Descripción del Proyecto :wolf:
 
 El Proyecto trata de una Pagina Web para un comercio y fabricantes de indumentaria Masculina. Comercio Joven, nacido en Córdoba, en miras de proyectar y potenciar sus ventas y negocios por medio de una Tienda Online, Pudiendo atraer a su portafolio nuevos clientes finales y mayorista de todo el país. La pagina estara centrada principalmente para consumidor final.
 
@@ -29,4 +30,6 @@ Una pagina que hable del comercio en sí, su trabajo y sus objetivos. Junto con 
 Tipografía y paleta de colores
 
 
+
+* Colores a utilizar
 
