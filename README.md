@@ -27,9 +27,10 @@ El Proyecto trata de una Pagina Web para un comercio y fabricantes de indumentar
 5. En Novedades, aparecera lo nuevo de la temporada, posibles descuentos y formas de pagos.
 6. En Productos,  listado de los productos separados por tipo de prenda y accesorios, situado en la parte izquierda. Previsualizacion de los productos en todo el otro sector.
 7. Una seccion que hable del comercio en sí, su trabajo y sus objetivos, junto con la dirección de las sucursales físicas.
-##Potenciales Clientes
 
-- va a estar dirigido principalmente, por el estilo de prenda y moda actual, al público masculino de entre 17 a 45 años. 
+## Potenciales Clientes :chart:
+
+- va a estár dirigido principalmente, por el estilo de prenda y moda actual, al público masculino de entre 17 a 45 años. 
 
 ## Tipografía y paleta de colores :black_nib: :art:
 
@@ -46,8 +47,8 @@ El Proyecto trata de una Pagina Web para un comercio y fabricantes de indumentar
      
 ![lobo logo tamaño chico](https://user-images.githubusercontent.com/111317302/184993994-1cacba30-b53b-41d3-a5bf-ffb892c5ece4.png)
 ![wolf logo readme](https://user-images.githubusercontent.com/111317302/184994215-8b24ee20-7adf-4095-abe4-262979903952.jpg)
-
-   ![pantalla inicio escritorio](https://user-images.githubusercontent.com/111317302/184994585-fed19c7c-541b-4783-8b05-3db2dab7db46.jpg)
+ ![pantalla inicio escritorio](https://user-images.githubusercontent.com/111317302/184994585-fed19c7c-541b-4783-8b05-3db2dab7db46.jpg)
+   
    ![inicio celular](https://user-images.githubusercontent.com/111317302/184995330-34496b45-c09b-4f36-9347-41ce06e04bb9.jpg)
 
    :construction: ""Proyecto en proceso"" :construction:
