@@ -27,6 +27,9 @@ El Proyecto trata de una Pagina Web para un comercio y fabricantes de indumentar
 5. En Novedades, aparecera lo nuevo de la temporada, posibles descuentos y formas de pagos.
 6. En Productos,  listado de los productos separados por tipo de prenda y accesorios, situado en la parte izquierda. Previsualizacion de los productos en todo el otro sector.
 7. Una seccion que hable del comercio en sí, su trabajo y sus objetivos, junto con la dirección de las sucursales físicas.
+##Potenciales Clientes
+
+- va a estar dirigido principalmente, por el estilo de prenda y moda actual, al público masculino de entre 17 a 45 años. 
 
 ## Tipografía y paleta de colores :black_nib: :art:
 
