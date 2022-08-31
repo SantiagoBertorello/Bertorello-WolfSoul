@@ -51,5 +51,7 @@ El Proyecto trata de una Pagina Web para un comercio y fabricantes de indumentar
    
    ![inicio celular](https://user-images.githubusercontent.com/111317302/184995330-34496b45-c09b-4f36-9347-41ce06e04bb9.jpg)
 
+##LINK FIGMA: https://www.figma.com/file/4CUIhzBklXrjIEktLaeP62/Untitled?node-id=0%3A1
+
    :construction: ""Proyecto en proceso"" :construction:
 
